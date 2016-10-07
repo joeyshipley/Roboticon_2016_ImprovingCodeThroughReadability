@@ -22,6 +22,10 @@
 - https://github.com/emilybache/GildedRose-Refactoring-Kata
 - https://github.com/emilybache/Tennis-Refactoring-Kata
 
+### Intro
+
+https://prezi.com/emgumynt_ewr/improving-code-through-readability/
+
 ### Code Touch Points
 
 - magic values
