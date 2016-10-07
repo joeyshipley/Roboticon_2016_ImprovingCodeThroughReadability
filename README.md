@@ -16,6 +16,7 @@
 - c.dmg(:magic, 20, 0, false, nil)
 - c.dmg(:shadow, 15, 6, true, nil)
 - exit
+- Refactor for readability!
 
 ### Then move on to these
 
