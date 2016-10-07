@@ -22,11 +22,17 @@
 - https://github.com/emilybache/GildedRose-Refactoring-Kata
 - https://github.com/emilybache/Tennis-Refactoring-Kata
 
-### Intro
+---
+
+### Talk Notes
+
+Nothing to see, move along.
+
+#### Intro
 
 https://prezi.com/emgumynt_ewr/improving-code-through-readability/
 
-### Code Touch Points
+#### Code Touch Points
 
 - magic values
 - expressive names
