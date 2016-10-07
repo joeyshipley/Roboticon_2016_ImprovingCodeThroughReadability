@@ -22,12 +22,12 @@
 - https://github.com/emilybache/GildedRose-Refactoring-Kata
 - https://github.com/emilybache/Tennis-Refactoring-Kata
 
-### Touch Points
+### Code Touch Points
 
 - magic values
 - expressive names
-- design through functions
 - duplication
+- design through functions
 - comments
 - expressive conditionals
 - reducing complexity through removing conditionals
